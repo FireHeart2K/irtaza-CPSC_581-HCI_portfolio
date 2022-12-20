@@ -57,7 +57,7 @@
     "versionPublish": "5.6.13"
   },
   "pages": {
-    "project4.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -564,7 +564,7 @@
         }
       ]
     },
-    "project.html": {
+    "project4.html": {
       "settings": {
         "title": "Project 4",
         "meta_descr": "",
